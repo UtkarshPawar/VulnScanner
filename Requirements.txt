@@ -1,0 +1,15 @@
+Dependencies (Python Packages)
+
+requests → For making HTTP requests (GET/POST).
+
+bs4 (BeautifulSoup4) → For parsing HTML responses.
+
+colorama → For colored terminal output.
+
+urllib (built-in) → Specifically urljoin, urlparse, parse_qs (comes with Python, no install needed).
+
+collections (built-in) → deque for BFS-style crawling (built-in, no install).
+
+hashlib (built-in) → For hashing values when needed (built-in, no install).
+
+random (built-in) → For shuffling payloads to reduce repetition (built-in, no install).
